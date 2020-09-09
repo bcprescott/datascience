@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "ahead-bprescott",
+  "private_key_id": "1c9783a99b460b672b18855c1708453c20834a3d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC7EXYQOGPCjXnH\npWNW283ehZ+s3UiDX8UQ+airMpV7k4aZBHi+BButulGZzh1tt7j3xwvKjudpgGoJ\nhpCqNVgaSUKm2d0VgxhNY2VSVnIS2y9hc7PuUlpRK8glx25vHR3eNKqx/ebiFZ4U\nOqsQ2gb8ndZ5GW8HPWE+J4P9f4z6MEL1bJKGnG+uwR4XnWqCz1K+gO7GQeXyNehK\nD+fsOqelGNIOmIofb3ZDqYjYsOWsLvR+9weBvQ4+HSwj8w712D+6h6CQ+zbX8cnn\nvfXD4PRyZIQ+0zjsdGDkbsSftCUpR2WBQeKdnqLPowcBPF1z6YdwifuWoffEy/bY\nFg7VVDw9AgMBAAECggEACzDNt8WvzhUpilRt/2WxyJSEy1IHgvhpMQ1GVkt13skh\n/ahjUrarMzbYp9NJNmWNtqDdJzZqSIjqjvxSTiRXy2bDiniw/Zb0jriZ+JV8SH19\nNZ62zlR127I7TGtEQ3hh74eGCJTQSYkShlJGJoFsdpM4n9DyL+Qvm4jAoBsPw22i\nR7DYW7oi/zjKaB2auNWsnXZuaL1F6HzKheRlDazuTLl3eJr4WkHPU64yjknkFCQ1\nZuiCf92lL34Dsqu0dXTRECAGao/EI4hHp1IxaickUWxSgmeKSDXx0DuDwuKJs0Sn\n4Pujjn4wCru+b+tMk0XWGnT67xPicfCStGuG2vUg/wKBgQD4QRPgQ9gcQMPX1639\nOuHcjfuw7dcZyciDZqTkYIFkaJFzCqjiqtzy848/veowVHa4DjB1v2s2d4TFJNJ8\ngWo+dzzbRo7KC8oOrQFVrZSzFgjKWi4wqXs8cm+SL2paFIBCBb1gI2pKxzDweGKb\nvWChXxpB4gLv/QqzQsibWww8wwKBgQDA56mQf0QASDp7kk7FsrqZFQ9KHDePzkVM\n8dqtN6+7FJTwuQLBqFfFp/WSoX0xFHG2Lj4zccxON4wlhgGUb5RmFiIFqy7WCbyA\nECPYg7NcyBcq+V+byRzb0pVh4k+yef+1pH2mnG/tA9ssdsfEe8XDq2+RvVFTFILl\nKb3w8soS/wKBgEm7wnSEkgZqMgDEnXet6nGAdjXpnk6ZgQWOEgGGrEevSyv5CYox\nJ2i9cFmFRa5PF+e4xynhza0iuHt5YU77fRvKfHfAMB7Qe5X6SoAxCw5ZyAiZ2kg3\nvlOIxZyMmrDgj+uMGuAYBLTrDp0NlHQfPjkPrxPMVgUDig8OEdkapLrTAoGAfcbO\n1YtVYEW39BhaSicV6XhExtKNG7Onldrf9S8o4ncyAZ7wACruR88SnG+0/ApTdjDC\nl7JsPteTBmhQoWL7RHDL8BxEZoRkpq9fX+3HRgikqn18bEv+CApPIkp4ImvPYbUF\nxFud0tE/18b+y8rUEJe4IDNrUhs+mYLU+MSlIysCgYEAkjIgXxLDlSEcbD+nPjs9\nea6RtdIcQCz2YhJZVI3Rf3e/ki+kjQopZTl+Rc4Wm4zkxt/K7wYMp/NoIlqtC0A3\nz5MjHQqecqVajWm5uGQiTNE7l+SDf8CXPkUle9yvIeMp8UA/i7l/jqelqizQajv9\n7PH/lFuT24J8ldm4sN3NUu0=\n-----END PRIVATE KEY-----\n",
+  "client_email": "pdfvision@ahead-bprescott.iam.gserviceaccount.com",
+  "client_id": "116300517533129246575",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pdfvision%40ahead-bprescott.iam.gserviceaccount.com"
+}
